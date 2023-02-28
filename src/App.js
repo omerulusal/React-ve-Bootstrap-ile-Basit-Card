@@ -37,7 +37,7 @@ function App() {
           <Card title="Zebra" text={yazi[4]} resim={pics[4]} />
         </div>
         <div className="col-md-4 my-2">
-          <Card title="Zebra" text={yazi[5]} resim={pics[5]} />
+          <Card title="Monkey" text={yazi[5]} resim={pics[5]} />
         </div>
       </div>
     </div>
